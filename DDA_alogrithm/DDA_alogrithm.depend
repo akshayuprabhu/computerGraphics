@@ -232,3 +232,9 @@
 1250308678 c:\program files (x86)\codeblocks\mingw\include\math.h
 	<_mingw.h>
 
+1485239292 source:d:\computergraphics15it203\dda_alogrithm\main.cpp
+	<windows.h>
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+
